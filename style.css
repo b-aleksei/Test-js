@@ -2,7 +2,7 @@
 	opacity: 0;
 	width: 150px;
 	height: 150px;
-	background-color: #bbb;
+	background-color: #aaa;
 }
 
 .test:focus-within {
