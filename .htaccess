@@ -1,4 +1,0 @@
-RewriteEngine On
-<filesMatch ".(js|css|html|svg)$">
-Header set content-encoding: gzip
-</filesMatch>
