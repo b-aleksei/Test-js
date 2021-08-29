@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<style>[viewBox] { display: none; } :target { display: block; }</style>
+
+<svg id="arrow-big" viewBox="0 0 24 24">
+<path d="M7.4357 6L1.81 11.625L7.4357 17.25M2.59135 11.625H7.9045H22" stroke="#343944" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" fill="none"/></svg>
+
+<svg id="arrow-right" viewBox="0 0 24 24"><path d="M12.57,5l6.93,7-6.93,7m6-7H4.5" fill="none" stroke="#0A5C6D" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/></svg>
+
+<svg id="icon-marker" viewBox="0 0 14 15"><path d="M0 0L13.0469 7.5L0 15V10.1562L4.5625 7.5L0 4.84375V0Z" fill="#E1E2E3"/></svg>
+<svg id="icon-marker-active" viewBox="0 0 14 15"><path d="M0 0L13.0469 7.5L0 15V10.1562L4.5625 7.5L0 4.84375V0Z" fill="#0A5C6D"/></svg>
+
+</svg>

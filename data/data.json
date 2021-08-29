@@ -1,0 +1,218 @@
+[
+	{
+		"id": 1,
+		"date": "31.12.2012",
+		"payment_npo": 0,
+		"amount_npo": 0,
+		"payment_nchtp": 107.71,
+		"payment_successor": 119583.54068,
+		"payment_one": 291521.2
+	},
+	{
+		"id": 2,
+		"date": "31.03.2013",
+		"payment_npo": 1102457.07,
+		"amount_npo": 285148.2155,
+		"payment_nchtp": 0,
+		"payment_successor": 53679.6694425,
+		"payment_one": 299807.15
+	},
+	{
+		"id": 3,
+		"date": "30.06.2013",
+		"payment_npo": 2271944.23,
+		"amount_npo": 442580.431,
+		"payment_nchtp": 0,
+		"payment_successor": 107359.338885,
+		"payment_one": 599614.3
+	},
+	{
+		"id": 4,
+		"date": "30.09.2013",
+		"payment_npo": 3449929.34000,
+		"amount_npo": 582838.6465000,
+		"payment_nchtp": 0,
+		"payment_successor": 161039.0083275,
+		"payment_one": 899421.45000
+	},
+	{
+		"id": 5,
+		"date": "31.12.2013",
+		"payment_npo": 4650457.27000,
+		"amount_npo": 740519.8620000,
+		"payment_nchtp": 0,
+		"payment_successor": 214718.6777700,
+		"payment_one": 1199228.60000
+	},
+	{
+		"id": 6,
+		"date": "31.03.2014",
+		"payment_npo": 1206838.12000,
+		"amount_npo": 389794.7775000,
+		"payment_nchtp": 444.0528,
+		"payment_successor": 93463.8147825,
+		"payment_one": 158182.70250
+	},
+	{
+		"id": 7,
+		"date": "30.06.2014",
+		"payment_npo": 2601984.56000,
+		"amount_npo": 668048.1050000,
+		"payment_nchtp": 1008.9700,
+		"payment_successor": 163619.1895650,
+		"payment_one": 365401.77500
+	},
+	{
+		"id": 8,
+		"date": "30.09.2014",
+		"payment_npo": 3781570.38000,
+		"amount_npo": 832547.2225000,
+		"payment_nchtp": 1698.7700,
+		"payment_successor": 253811.0543475,
+		"payment_one": 713271.37750
+	},
+	{
+		"id": 9,
+		"date": "31.12.2014",
+		"payment_npo": 5091600.50000,
+		"amount_npo": 1031465.5800000,
+		"payment_nchtp": 2536.2900,
+		"payment_successor": 361239.6391300,
+		"payment_one": 1156615.29000
+	},
+	{
+		"id": 10,
+		"date": "31.03.2015",
+		"payment_npo": 1316591.01000,
+		"amount_npo": 327842.1052225,
+		"payment_nchtp": 1004.8900,
+		"payment_successor": 95331.3773200,
+		"payment_one": 407085.06500
+	},
+	{
+		"id": 11,
+		"date": "30.06.2015",
+		"payment_npo": 2710041.94000,
+		"amount_npo": 581781.0804450,
+		"payment_nchtp": 2192.0100,
+		"payment_successor": 232848.2446400,
+		"payment_one": 725560.53000
+	},
+	{
+		"id": 12,
+		"date": "30.09.2015",
+		"payment_npo": 4133949.22000,
+		"amount_npo": 787292.2456675,
+		"payment_nchtp": 3704.4900,
+		"payment_successor": 344595.7619600,
+		"payment_one": 1418901.04500
+	},
+	{
+		"id": 13,
+		"date": "31.12.2015",
+		"payment_npo": 5550456.05000,
+		"amount_npo": 1027209.2708900,
+		"payment_nchtp": 28105.7200,
+		"payment_successor": 496624.2592800,
+		"payment_one": 1994228.61000
+	},
+	{
+		"id": 14,
+		"date": "31.03.2016",
+		"payment_npo": 1432962.01000,
+		"amount_npo": 570662.0000000,
+		"payment_nchtp": 11155.0100,
+		"payment_successor": 129356.4500000,
+		"payment_one": 334955.57000
+	},
+	{
+		"id": 15,
+		"date": "30.06.2016",
+		"payment_npo": 2969115.83000,
+		"amount_npo": 733178.2100000,
+		"payment_nchtp": 24054.1100,
+		"payment_successor": 316491.1400000,
+		"payment_one": 714555.09000
+	},
+	{
+		"id": 16,
+		"date": "30.09.2016",
+		"payment_npo": 4522669.30000,
+		"amount_npo": 1074624.1900000,
+		"payment_nchtp": 39348.7700,
+		"payment_successor": 482934.7300000,
+		"payment_one": 1254744.32000
+	},
+	{
+		"id": 17,
+		"date": "31.12.2016",
+		"payment_npo": 6052851.29000,
+		"amount_npo": 1296456.5828700,
+		"payment_nchtp": 57091.3400,
+		"payment_successor": 675242.4931800,
+		"payment_one": 1654556.90000
+	},
+	{
+		"id": 18,
+		"date": "31.03.2017",
+		"payment_npo": 1522464.21000,
+		"amount_npo": 246897.7300000,
+		"payment_nchtp": 19702.2819,
+		"payment_successor": 114537.5889900,
+		"payment_one": 336554.48306
+	},
+	{
+		"id": 19,
+		"date": "30.06.2017",
+		"payment_npo": 3163351.00000,
+		"amount_npo": 609352.0000000,
+		"payment_nchtp": 42300.0000,
+		"payment_successor": 332946.0000000,
+		"payment_one": 844567.00000
+	},
+	{
+		"id": 20,
+		"date": "30.09.2017",
+		"payment_npo": 4781328.00000,
+		"amount_npo": 846072.0000000,
+		"payment_nchtp": 69607.0000,
+		"payment_successor": 515888.0000000,
+		"payment_one": 1567852.00000
+	},
+	{
+		"id": 21,
+		"date": "31.12.2017",
+		"payment_npo": 6390095.00000,
+		"amount_npo": 1232270.0000000,
+		"payment_nchtp": 101352.0000,
+		"payment_successor": 687811.0000000,
+		"payment_one": 2173244.00000
+	},
+	{
+		"id": 22,
+		"date": "31.03.2018",
+		"payment_npo": 1602972.02003,
+		"amount_npo": 250480.0000000,
+		"payment_nchtp": 35176.0000,
+		"payment_successor": 184465.0000000,
+		"payment_one": 504381.89488
+	},
+	{
+		"id": 23,
+		"date": "30.06.2018",
+		"payment_npo": 3230066.42969,
+		"amount_npo": 559255.0000000,
+		"payment_nchtp": 73738.0000,
+		"payment_successor": 383836.0000000,
+		"payment_one": 1161151.89488
+	},
+	{
+		"id": 24,
+		"date": "30.09.2018",
+		"payment_npo": 0,
+		"amount_npo": 0,
+		"payment_nchtp": 0,
+		"payment_successor": 0,
+		"payment_one": 0
+	}
+]
